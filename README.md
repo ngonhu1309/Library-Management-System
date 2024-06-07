@@ -15,7 +15,11 @@ The library management system project is a software program created to assist li
 
 ## Requirements and Design
 
-![image](https://github.com/ngonhu1309/Library-Management-System/assets/135569353/a33bc54d-c4b4-4e97-823b-c1c9d5c1e6f3)
+<p align="center">
+  <img src="https://github.com/ngonhu1309/Library-Management-System/assets/135569353/a33bc54d-c4b4-4e97-823b-c1c9d5c1e6f3" alt="image1">
+</p>
+
+## Class
 
 1. Item class
   * This class is a superclass.
@@ -55,7 +59,9 @@ The library management system project is a software program created to assist li
 
 I am planning to create a text file that contains both the information of items and information of librarians. That means there will be some lines that have 7 data and there will be some lines that only have 4 data. The data will be separated by a tab. For example:
 
-<img width="728" alt="image" src="https://github.com/ngonhu1309/Library-Management-System/assets/135569353/73f100b2-da75-4f9d-aea7-cc066c2ab412">
+<p align="center">
+  <img src="https://github.com/ngonhu1309/Library-Management-System/assets/135569353/73f100b2-da75-4f9d-aea7-cc066c2ab412" alt="image2">
+</p>
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or bug fixes.
