@@ -1,0 +1,6 @@
+book	1	To Kill a Mockingbird	true	Harper Lee	15	
+dvd	3	The Godfather	false	Francis Ford Coppola	175	
+dvd	4	The Dark Knight	false	Christopher Nolan	152	
+Dvd	8	The Lord of the Rings: The Fellowship of the Ring	false	New Line Home Entertainment	178	
+lib	200	David	Kim	book	
+lib	435	Lisa	Berk	book	
